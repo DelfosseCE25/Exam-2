@@ -37,3 +37,5 @@ print("Mean Squared Error:", mse)
 example_data = [[100, 20, 5000, 30, 100, 4]]  # Example values for features
 example_prediction = model.predict(example_data)
 print("Example Prediction for Monthly Revenue:", example_prediction[0])
+
+print("Go Bucks!") 
